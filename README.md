@@ -1,4 +1,4 @@
-# JoyOfCoding-Functions
+# JoyOfCoding-UsingFunctions
 Using Functions Practice in Python
 
 1. Create a program poem.py that asks the user for 2 parts of speech as 
